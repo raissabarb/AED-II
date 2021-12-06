@@ -1,0 +1,12 @@
+Lab01 - Na matematica, um Número Primo é aquele que pode ser dividido somente por 1 (um) e por ele mesmo. Por exemplo, o numero 5 é primo, 
+pois pode ser dividido apenas pelo numero 1 e pelo número 5.
+
+Lab02 - No país Recursonia o governo resolveu taxar os livros. A editora PEREIRA&PEREIRA preocupada com essa situacão resolveu criar uma 
+promoção para os melhores alunos da UNIFESP: para cada compra de livros da editora, o aluno ganha um vale-compras. Você, que é um leitor 
+voraz e ótimo aluno de Estrutura de Dados, resolveu escrever um programa para lhe ajudar a saber o numero máximo de livros que poderá 
+comprar. Para isso, você sabe a quantidade de dinheiro d que tem, o preço p de cada unidade de livro e o número v de vale-compras para a 
+obtenção de um livro extra. Exemplo: Suponha d = 16, p = 2 e v = 2. Você pode comprar 8 livros com R$ 16,00. A cada compra voce ganhou um 
+vale. A cada 2 vales, você pode trocar por um livro, ou seja, nesta primeira compra voce ganhou 8 vales e trocou por mais 4 livros. Depois
+de adquirir os 4 livros, voce ganhou mais 4 vales, e poderá trocar por mais 2 livros e ganhar mais 2 vales. Agora, voce pode trocar os 
+dois últimos vales para obter mais um livro. Com apenas mais um vale, não é possível trocar por mais livros, afinal, para este exemplo, são 
+necessários dois vales para trocar por mais um livro. No final você terá 15 livros.
